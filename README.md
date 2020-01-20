@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hii!
+Hi,I like Codeingiter framework a lot.
